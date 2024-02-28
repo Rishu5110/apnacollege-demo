@@ -1,4 +1,4 @@
 # apnacollege-demo
 demo
 <br>
-author-RISHU
+author-RISHU Goyal
