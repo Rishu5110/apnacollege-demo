@@ -1,4 +1,4 @@
-# apnacollege-demo
-demo
+# Event Management Website 
 <br>
-author-RISHU Goyal
+Front End Engineering Projet 
+
